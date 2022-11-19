@@ -124,6 +124,7 @@ ul{
     background: white;
     margin: 0 auto 2em auto;
     padding: 35px 30px;
+    border-radius: 9px;
 }
 
 .side-post{
@@ -131,6 +132,7 @@ ul{
     margin: 0 auto 1.5em auto;
     width: 15em;
     padding: 20px;
+    border-radius: 9px;
 }
 
 .blog-content{
@@ -147,7 +149,7 @@ ul{
 
 .blog-title{
     font-weight: 500px;
-    font-size: 2.5em;
+    font-size: 2em;
     margin-top: 5px;
 }
 
